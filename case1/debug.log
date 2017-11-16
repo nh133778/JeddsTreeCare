@@ -1,0 +1,2 @@
+[1116/141803.586:ERROR:exception_snapshot_win.cc(87)] thread ID 2976 not found in process
+[1116/141803.588:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
